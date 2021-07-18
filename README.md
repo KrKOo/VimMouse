@@ -10,6 +10,8 @@ A simple script that allows you to control your mouse with HJKL keys + Shift, Ct
 |        {Space\|Enter}       |      Left click     |
 |          Right Shift        |     Rigth click     |
 |  Ctrl + Alt + {H\|J\|K\|L}  |        Scroll       |
+|  	       F9	      |        Enable       |
+|              Esc            |        Disable      |
 
 ## Building
 Usage:
