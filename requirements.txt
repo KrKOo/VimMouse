@@ -1,0 +1,7 @@
+altgraph==0.17
+evdev==1.4.0
+pyinstaller==4.4
+pyinstaller-hooks-contrib==2021.2
+-e git+https://github.com/reapler/pynput@5a1bbcf33519e9e5b6593e4be8949e1cdb6756de#egg=pynput
+python-xlib==0.31
+six==1.16.0
