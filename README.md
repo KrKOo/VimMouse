@@ -20,7 +20,7 @@ Example:
 
 `./build.sh linux`
 
-creates an executable for Linux
+creates an executable for Linux (you have to run the script on that OS)
 
 ## Author
 * [KrKOo](https://github.com/KrKOo)
